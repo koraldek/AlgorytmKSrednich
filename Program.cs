@@ -26,8 +26,6 @@ public class PunktK
     public int Grupa { get; set; }
 }
 
-    
-
 
     class Program
     {
